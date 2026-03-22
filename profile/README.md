@@ -14,7 +14,7 @@ Meter builds enterprise networks from the ground up — as a single, unified sys
 
 Today’s networks are fragmented, manual, and difficult to operate.
 
-We believe they should behave more like other utilities: predictable, reliable, always on.
+We believe they should behave more like other utilities: predictable, reliable and always on.
 
 
 ### Join us
