@@ -16,6 +16,4 @@ Our bet with Meter is that we’ll all use the internet more than we do today. W
 
 ### Join us
 
-We’re building this in the US, Canada, Europe, and beyond.
-
 https://www.meter.com/careers
